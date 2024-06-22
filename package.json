@@ -1,5 +1,6 @@
 {
   "name": "gericht-restaurant",
+  "homepage": "https://Freeman-Adelaide.github.io/gericht-restaurant-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
